@@ -1,0 +1,1 @@
+[03-Jan-2017 13:39:37 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home2/zreece/public_html/mylaravel/laravel/app/User.php on line 9

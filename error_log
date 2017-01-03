@@ -1,0 +1,1 @@
+[12-Dec-2016 16:33:56 UTC] PHP Fatal error:  Class 'CreateUserNotesTable' not found in /home2/zreece/public_html/mylaravel/laravel/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php on line 410
