@@ -15,13 +15,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/home1', function () {
-    return view('home1');
-});
-
-Route::get('/bootstrap', function () {
-    return view('firstbootstrap');
-});
 
 Auth::routes();
 
